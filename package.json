@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^7.0.2",
     "@n8n/chat": "^0.27.1",
     "@xyflow/react": "^12.6.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-hook-form": "^7.56.2",
     "reactflow": "^11.11.4"
   },
   "devDependencies": {
